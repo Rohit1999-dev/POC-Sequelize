@@ -1,24 +1,24 @@
 {
   "development": {
-    "username": "rohit",
-    "password": "rohit0909",
-    "database": "sequelize",
+    "username": "database_owner_name",
+    "password": "database_password",
+    "database": "database_name",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
   },
   "test": {
-    "username": "rohit",
-    "password": "rohit0909",
-    "database": "sequelize",
+    "username": "database_owner_name",
+    "password": "database_password",
+    "database": "database_name",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
   },
   "production": {
-    "username": "rohit",
-    "password": "rohit0909",
-    "database": "sequelize",
+    "username": "database_owner_name",
+    "password": "database_password",
+    "database": "database_name",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
