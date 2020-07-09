@@ -10,23 +10,23 @@ There is some packages which is available or need to install all these packages 
     >> sudo npm i pg pg-hstore for postgres
 
 
-For installing the Sequelize CLI--
-    >> sudo npm install --save-dev sequelize-cli
+For installing the Sequelize CLI--<br>
+    >> sudo npm install --save-dev sequelize-cli<br>
 
-To create an empty project you will need to execute init command
-    >> sudo npx sequelize-cli init
+To create an empty project you will need to execute init command<br>
+    >> sudo npx sequelize-cli init<br>
 
 
-For Sequelize migration
-    <> Create of models of tables run this command which is given below --
-    >> npx sequelize-cli model:generate --name User --attributes firstName:string,lastName:string,email:string
+For Sequelize migration<br>
+    <> Create of models of tables run this command which is given below --<br>
+    >> npx sequelize-cli model:generate --name User --attributes firstName:string,lastName:string,email:string<br>
 
-For Running Migration run this command which is given below--
-    >> sudo npx sequelize-cli db:migrate
+For Running Migration run this command which is given below--<br>
+    >> sudo npx sequelize-cli db:migrate<br>
 
-# Instruction the code how to run the code on terminal and which port is on working to test the server
-In this project, we have check the code on server as well as postman, and start your server by your terminal,
-simply run the 
+# Instruction the code how to run the code on terminal and which port is on working to test the server<br>
+In this project, we have check the code on server as well as postman, and start your server by your terminal,<br>
+simply run the <br>
 >> npm start
 
 
