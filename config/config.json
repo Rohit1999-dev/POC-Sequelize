@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "rohit",
+    "password": "rohit0909",
+    "database": "sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "rohit",
+    "password": "rohit0909",
+    "database": "sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "rohit",
+    "password": "rohit0909",
+    "database": "sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
+
