@@ -1,13 +1,14 @@
 # POC-sequelize
-Use of sequelize with express CRUD Operation and postgres Database through Migration, And reltation maping between two or more table.
+Use of sequelize with express CRUD Operation and postgres Database through Migration, And reltation maping<br> between two or more table.
 
 # Requirement 
 
-There is some packages which is available or need to install all these packages in your project --
-    >> sudo npm i express --save  for express install
-    >> sudo npm install pg  for pg installation
-    >> sudo npm i sequelize  for sequelize instalation
-    >> sudo npm i pg pg-hstore for postgres
+There is some packages which is available or need to install all these packages in your project --<br>
+
+    >> sudo npm i express --save  for express install -- <br>
+    >> sudo npm install pg  for pg installation <br>
+    >> sudo npm i sequelize  for sequelize instalation <br>
+    >> sudo npm i pg pg-hstore for postgres <br>
 
 
 For installing the Sequelize CLI--<br>
